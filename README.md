@@ -1,7 +1,8 @@
 # Ozen Labs
 
-**Small, focused apps for everyday life — built with care, shipped with discipline.**
-**Günlük hayat için sade ve odaklı uygulamalar — özenle geliştirilir, disiplinle yayınlanır.**
+**A growing family of small, focused apps — built with care, shipped with discipline.**
+
+**Sade ve odaklı uygulamalardan oluşan, büyüyen bir aile — özenle geliştirilir, disiplinle yayınlanır.**
 
 [English](#-english) · [Türkçe](#-türkçe)
 
@@ -9,60 +10,54 @@
 
 ## 🇬🇧 English
 
-Ozen Labs is an independent software studio founded by Muzaffer Özen, a senior software engineer with many years of experience building and maintaining large-scale enterprise applications. We bring that same engineering rigor — clean architecture, reliable data, careful releases — to mobile apps that people actually enjoy using.
+Ozen Labs is an independent app studio founded by Muzaffer Özen, a senior software engineer with many years of experience building and maintaining large-scale enterprise software. Our goal is simple: build a portfolio of useful apps, each solving one real problem well — and keep improving them for the long run.
 
-### 📱 Apps
+### 📱 Our Apps
 
-**PawNote** — A simple, private notebook for your pet's daily life: health, care and memories in one place.
-<!-- EDIT: adjust the description to match the app -->
+| App | What it does | Platform | Status |
+|-----|--------------|----------|--------|
+| **PawNote** | A private notebook for your pet's daily life — health, care and memories | iOS | 🚧 Coming soon to the App Store |
+| *More apps* | New ideas are in the lab | iOS · Android | 🧪 In development |
 
-- Platform: iOS (iPhone)
-- Built with: Swift, SwiftUI
-- Status: Preparing for App Store release
+### 🧭 How we build
+
+- **One problem, one app.** Each app is small, clear and easy to use.
+- **Privacy first.** Minimal data collection, no dark patterns.
+- **Native quality.** Swift & SwiftUI on iOS, platform-native experience everywhere.
+- **Long-term care.** Tested releases, predictable updates, real maintenance.
 
 ### 🛠 Tech
 
-- **Mobile:** Swift · SwiftUI · Xcode · TestFlight · App Store Connect
-- **Backend & data:** C# · .NET · SQL Server · PostgreSQL
-
-### 🎯 Principles
-
-- **Do one thing well.** Every app solves a clear, real problem.
-- **Respect the user.** Minimal data collection, no dark patterns.
-- **Ship reliably.** Tested builds, predictable updates, long-term maintenance.
+Swift · SwiftUI · Xcode · TestFlight · C# · .NET · SQL Server · PostgreSQL
 
 ---
 
 ## 🇹🇷 Türkçe
 
-Ozen Labs, büyük ölçekli kurumsal uygulamalar geliştirme ve yönetme konusunda uzun yıllara dayanan deneyime sahip kıdemli yazılım mühendisi Muzaffer Özen tarafından kurulan bağımsız bir yazılım stüdyosudur. Kurumsal dünyadaki mühendislik disiplinini — temiz mimari, güvenilir veri, özenli sürüm yönetimi — insanların keyifle kullandığı mobil uygulamalara taşıyoruz.
+Ozen Labs, büyük ölçekli kurumsal yazılımlar geliştirme ve yönetme konusunda uzun yıllara dayanan deneyime sahip kıdemli yazılım mühendisi Muzaffer Özen tarafından kurulan bağımsız bir uygulama stüdyosudur. Hedefimiz net: her biri gerçek bir sorunu iyi çözen faydalı uygulamalardan oluşan bir portföy kurmak ve bu uygulamaları uzun vadede geliştirmeye devam etmek.
 
-### 📱 Uygulamalar
+### 📱 Uygulamalarımız
 
-**PawNote** — Evcil dostunuzun günlük hayatı için sade ve gizliliğe önem veren bir defter: sağlık, bakım ve anılar tek yerde.
-<!-- DÜZENLE: açıklamayı uygulamana göre güncelle -->
+| Uygulama | Ne yapar | Platform | Durum |
+|----------|----------|----------|-------|
+| **PawNote** | Evcil dostunuzun günlük hayatı için gizli bir defter — sağlık, bakım ve anılar | iOS | 🚧 Yakında App Store'da |
+| *Yeni uygulamalar* | Yeni fikirler laboratuvarda | iOS · Android | 🧪 Geliştiriliyor |
 
-- Platform: iOS (iPhone)
-- Teknoloji: Swift, SwiftUI
-- Durum: App Store yayınına hazırlanıyor
+### 🧭 Nasıl geliştiriyoruz
+
+- **Bir sorun, bir uygulama.** Her uygulama küçük, net ve kolay kullanılır.
+- **Önce gizlilik.** En az veri toplama, yanıltıcı tasarım yok.
+- **Native kalite.** iOS'ta Swift ve SwiftUI, her platformda yerel deneyim.
+- **Uzun vadeli bakım.** Test edilmiş sürümler, öngörülebilir güncellemeler, gerçek destek.
 
 ### 🛠 Teknolojiler
 
-- **Mobil:** Swift · SwiftUI · Xcode · TestFlight · App Store Connect
-- **Backend ve veri:** C# · .NET · SQL Server · PostgreSQL
-
-### 🎯 İlkelerimiz
-
-- **Bir işi iyi yap.** Her uygulama net ve gerçek bir sorunu çözer.
-- **Kullanıcıya saygı.** En az veri toplama, yanıltıcı tasarım yok.
-- **Güvenilir yayın.** Test edilmiş sürümler, öngörülebilir güncellemeler, uzun vadeli bakım.
+Swift · SwiftUI · Xcode · TestFlight · C# · .NET · SQL Server · PostgreSQL
 
 ---
 
 ## 📬 Contact / İletişim
 
-- ✉️ muzafferozen@ozenlabs.dev
-<!-- Web siten yayındaysa aç / Uncomment when live: - 🌐 https://ozenlabs.dev -->
-<!-- PawNote yayınlanınca / After release: - [App Store](https://apps.apple.com/app/idXXXXXXXXX) -->
+✉️ [support@ozenlabs.dev](mailto:support@ozenlabs.dev)
 
-© Ozen Labs
+<sub>© Ozen Labs</sub>
