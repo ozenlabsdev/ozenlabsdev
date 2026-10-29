@@ -1,8 +1,8 @@
 # Ozen Labs
 
-**A growing family of small, focused apps — built with care, shipped with discipline.**
+**Building the next generation of everyday mobile apps — for iOS and Android.**
 
-**Sade ve odaklı uygulamalardan oluşan, büyüyen bir aile — özenle geliştirilir, disiplinle yayınlanır.**
+**Günlük hayatı kolaylaştıran yeni nesil mobil uygulamalar — iOS ve Android için.**
 
 [English](#-english) · [Türkçe](#-türkçe)
 
@@ -10,49 +10,65 @@
 
 ## 🇬🇧 English
 
-Ozen Labs is an independent app studio founded by Muzaffer Özen, a senior software engineer with many years of experience building and maintaining large-scale enterprise software. Our goal is simple: build a portfolio of useful apps, each solving one real problem well — and keep improving them for the long run.
+Ozen Labs is an independent mobile app studio founded by Muzaffer Özen, a senior software engineer with many years of experience building and maintaining large-scale enterprise software.
 
-### 📱 Our Apps
+We are building a growing portfolio of apps across many categories — productivity, lifestyle, health & wellness, utilities, education and more. Each app is designed to solve a real everyday problem, simply and beautifully, on both iOS and Android.
 
-| App | What it does | Platform | Status |
-|-----|--------------|----------|--------|
-| **PawNote** | A private notebook for your pet's daily life — health, care and memories | iOS | 🚧 Coming soon to the App Store |
-| *More apps* | New ideas are in the lab | iOS · Android | 🧪 In development |
+### 🚀 What we do
 
-### 🧭 How we build
+- 📱 **iOS & Android apps** — native, fast and polished on every device
+- 🧩 **Many categories, one standard** — every app shares the same quality bar
+- 🔁 **Continuous improvement** — regular updates driven by user feedback
+- 🌍 **Built for a global audience** — localized, accessible and easy to use
 
-- **One problem, one app.** Each app is small, clear and easy to use.
+### 🧭 Our principles
+
+- **One problem, one app.** Clear purpose, no clutter.
 - **Privacy first.** Minimal data collection, no dark patterns.
-- **Native quality.** Swift & SwiftUI on iOS, platform-native experience everywhere.
-- **Long-term care.** Tested releases, predictable updates, real maintenance.
+- **Engineering discipline.** Clean architecture, tested releases, long-term maintenance.
+- **Design that respects people.** Simple, accessible and enjoyable.
 
 ### 🛠 Tech
 
-Swift · SwiftUI · Xcode · TestFlight · C# · .NET · SQL Server · PostgreSQL
+**Mobile:** Swift · SwiftUI · Kotlin · Jetpack Compose  
+**Backend & data:** C# · .NET · SQL Server · PostgreSQL  
+**Delivery:** App Store Connect · TestFlight · Google Play Console
+
+### 🔭 What's next
+
+Several apps are in development and will be released on the App Store and Google Play. Follow this account to see what comes out of the lab.
 
 ---
 
 ## 🇹🇷 Türkçe
 
-Ozen Labs, büyük ölçekli kurumsal yazılımlar geliştirme ve yönetme konusunda uzun yıllara dayanan deneyime sahip kıdemli yazılım mühendisi Muzaffer Özen tarafından kurulan bağımsız bir uygulama stüdyosudur. Hedefimiz net: her biri gerçek bir sorunu iyi çözen faydalı uygulamalardan oluşan bir portföy kurmak ve bu uygulamaları uzun vadede geliştirmeye devam etmek.
+Ozen Labs, büyük ölçekli kurumsal yazılımlar geliştirme ve yönetme konusunda uzun yıllara dayanan deneyime sahip kıdemli yazılım mühendisi Muzaffer Özen tarafından kurulan bağımsız bir mobil uygulama stüdyosudur.
 
-### 📱 Uygulamalarımız
+Verimlilik, yaşam tarzı, sağlık ve iyi yaşam, araçlar, eğitim ve daha birçok kategoride büyüyen bir uygulama portföyü oluşturuyoruz. Her uygulamamız, günlük hayattaki gerçek bir sorunu iOS ve Android'de sade ve şık bir şekilde çözmek için tasarlanır.
 
-| Uygulama | Ne yapar | Platform | Durum |
-|----------|----------|----------|-------|
-| **PawNote** | Evcil dostunuzun günlük hayatı için gizli bir defter — sağlık, bakım ve anılar | iOS | 🚧 Yakında App Store'da |
-| *Yeni uygulamalar* | Yeni fikirler laboratuvarda | iOS · Android | 🧪 Geliştiriliyor |
+### 🚀 Ne yapıyoruz
 
-### 🧭 Nasıl geliştiriyoruz
+- 📱 **iOS ve Android uygulamaları** — her cihazda native, hızlı ve özenli
+- 🧩 **Birçok kategori, tek standart** — tüm uygulamalarımız aynı kalite çıtasını paylaşır
+- 🔁 **Sürekli gelişim** — kullanıcı geri bildirimiyle düzenli güncellemeler
+- 🌍 **Global kitle için** — çok dilli, erişilebilir ve kolay kullanılır
 
-- **Bir sorun, bir uygulama.** Her uygulama küçük, net ve kolay kullanılır.
+### 🧭 İlkelerimiz
+
+- **Bir sorun, bir uygulama.** Net amaç, gereksiz karmaşa yok.
 - **Önce gizlilik.** En az veri toplama, yanıltıcı tasarım yok.
-- **Native kalite.** iOS'ta Swift ve SwiftUI, her platformda yerel deneyim.
-- **Uzun vadeli bakım.** Test edilmiş sürümler, öngörülebilir güncellemeler, gerçek destek.
+- **Mühendislik disiplini.** Temiz mimari, test edilmiş sürümler, uzun vadeli bakım.
+- **İnsana saygılı tasarım.** Sade, erişilebilir ve keyifli.
 
 ### 🛠 Teknolojiler
 
-Swift · SwiftUI · Xcode · TestFlight · C# · .NET · SQL Server · PostgreSQL
+**Mobil:** Swift · SwiftUI · Kotlin · Jetpack Compose  
+**Backend ve veri:** C# · .NET · SQL Server · PostgreSQL  
+**Yayın:** App Store Connect · TestFlight · Google Play Console
+
+### 🔭 Sırada ne var
+
+Geliştirme aşamasında olan birçok uygulamamız App Store ve Google Play'de yayınlanacak. Laboratuvardan neler çıkacağını görmek için bu hesabı takip edin.
 
 ---
 
